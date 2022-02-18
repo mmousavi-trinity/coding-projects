@@ -1,7 +1,7 @@
 # coding-projects
 Repository for side-projects and scripts
 
-- 👋 Hi, I’m Marcus Mousavi, I am recent computer science graduate from Trinity University, currently working as a product support engineer at Sprinklr. 
+- Hi, I’m Marcus Mousavi, I am recent computer science graduate from Trinity University, currently working as a product support engineer at Sprinklr. 
 
 - I’m interested in web analytics,automation, and backend development. I have experience in CRM/CXM roles as well as development roles and currently looking 
 - for growth opportunities in development/product support roles that implement coding and SAAS.
